@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(219, 182, 238);
+}
+#score{
+    font-size: 20;
+    font-weight: bold;
+    margin-right: 800px;
+}
+#timer{
+    font-size: 20;
+    font-weight: bold;
+}
+#sketch_to_be_drawn{
+    font-size: 25;
+    font-weight: bolder;
+    color: blueviolet;
+}
+
+canvas{
+    border-radius: 20px;
+    background:rgb(255, 255, 255);
+}
